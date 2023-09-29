@@ -147,6 +147,11 @@ Caso queira exibir apenas um médico e não uma lista, inclua o id do médico ap
 
 ## 🏃 Como executar o projeto
 
+### 📍 Requisitos para execução
+
+- Java 17
+
+
 *# clone o repositório*
 
 ```

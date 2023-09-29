@@ -1,6 +1,6 @@
 # api-spring-boot-alura
 
-# 🔍 Sobre
+## 🔍 Sobre
 API Rest criada no curso de Spring Boot da Alura. Consiste em uma api para um consultório medico, onde podem ser cadastrados medicos, pacientes e consultas.
 
 ## 🤖 Tecnologias
